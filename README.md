@@ -1,2 +1,3 @@
 # kbc-python-quiz-game
-A Python-based Kaun Banega Crorepati (KBC) quiz game simulating the popular TV show's format. It features lifelines (50-50, audience poll, phone-a-friend), dynamic scoring, and a command-line interface. Built using Python, the game enhances skills in loops, logic, and exception handling. Future plans include a GUI and an expanded question bank.
+KBC Python Quiz Game 🎮
+This project is a Python implementation of the popular Indian quiz show Kaun Banega Crorepati (KBC). Test your knowledge with a series of multiple-choice questions and enjoy features like lifelines, dynamic scoring, and increasing difficulty. The game is played through the command line and is a fun way to experience coding logic, loops, and decision-making in Python.
